@@ -1,4 +1,5 @@
 Challenge Objective
+
 For the Maven Northwind Challenge, I worked as a BI Developer for Northwind Traders, a global import and export company that specializes in supplying high-quality gourmet food products to restaurants, cafes, and specialty food retailers around the world.
 As part of my role, I've been tasked with building a top-level KPI dashboard for the executive team. Its purpose is to allow them to quickly understand the company's performance in key areas, including:
 * Sales trends
@@ -7,6 +8,7 @@ As part of my role, I've been tasked with building a top-level KPI dashboard for
 * Shipping costs
 
 About the Data Set
+
 The data set encompasses comprehensive sales and order information for Northwind Traders, covering diverse aspects such as customers, products, orders, shippers, and employees. The dataset is organized across a total of 7 tables.
 
 🛠 Tools Used:
