@@ -19,7 +19,6 @@ The data set encompasses comprehensive sales and order information for Northwind
 🧹 Data Cleaning:
 Using Power Query, efficiently cleaned the raw data to ensure accuracy and consistency. Resolved inconsistencies, handled missing values, and prepared the dataset for analysis.
 
-Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZjRiNDk3NWQtYmU4Yi00YTU0LTllNTYtOTY2NzI0MTVhMmI5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 📊 Data Modeling:
 Utilized Power BI to create robust data models, incorporating measures, calculated columns, and filters to enhance insights and reporting capabilities.
 Used Excel's Power Pivot as well for data modeling and creating measures.
@@ -29,6 +28,8 @@ Implemented DAX functions to create sophisticated measures for in-depth data ana
 
 🎨 Power BI Dashboard:
 Check out a snapshot of my Power BI dashboard in the attached PDF. I've brought the data to life with interactive visuals, uncovering trends, and showcasing key metrics.
+
+Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZjRiNDk3NWQtYmU4Yi00YTU0LTllNTYtOTY2NzI0MTVhMmI5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 📈 PowerPoint Presentation:
 Crafted a compelling PowerPoint presentation to communicate findings effectively, ensuring stakeholders grasp the insights derived from the data.# NorthWind-Traders-Dasboard
